@@ -6,6 +6,15 @@
 </div>
 
 <div align="center">
+    <p>
+        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://discord-cards.onrender.com/api/compact/897301257037959219?about=Dead&banner=https://i.pinimg.com/736x/04/f7/da/04f7da210c87df2ce05f8a0880bbb060.jpg&large_image=&small_image=https://p.kindpng.com/picc/s/220-2206319_kanna-png-page-kanna-kamui-with-a-gun.png&hex=">
+        </a>
+    </p>
+</div>
+
+
+
+<div align="center">
 <a href="https://github.com/KiriXen" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 100px;" />
 </a>
