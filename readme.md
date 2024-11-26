@@ -26,15 +26,14 @@
 </a>    
 </div>
 
-<img align="left" src="https://raw.githubusercontent.com/KirixenYT/KirixenYT/main/bocchi.png" width="100px"/> 
-<img align="right" src="https://static.wikia.nocookie.net/houkai3rd/images/9/9d/60711.png/revision/latest?cb=20190719100323" width="22%"/> 
+<img align="right" src="https://raw.githubusercontent.com/KirixenYT/KirixenYT/main/bocchi.png" width="100px"/> 
 
 ```csharp
-Username: KiriXen
-Fav Anime: Tower of God
-Pronouns: He/Him
-Learning: PHP
-Hobbies: Gaming, Coding while I am listening music
+Username: Sam(aka KiriXen)
+Fav Anime: Arifureta
+Pronouns: He/Him/Walmart-Bag
+Learning: React
+Hobbies: Gaming, Coding n melophile
 ```
 
 
