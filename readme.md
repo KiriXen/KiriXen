@@ -29,11 +29,10 @@
 <img align="right" src="https://raw.githubusercontent.com/KirixenYT/KirixenYT/main/bocchi.png" width="100px"/> 
 
 ```csharp
-Username: Sam(aka KiriXen)
-Fav Anime: Arifureta
-Pronouns: He/Him/Walmart-Bag
-Learning: React
-Hobbies: Gaming, Coding n melophile
+Username: Kiri
+Fav Anime: Anythin
+Pronouns: Camera
+Hobbies: nihilist
 ```
 
 
