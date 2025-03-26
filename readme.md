@@ -1,30 +1,15 @@
 <div align="center">
-    <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=Kirixen&style=for-the-badge&color=1C8C8C">
-        </a>
-    </p>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Profile!&font=Fira+Code&center=true&width=440&height=45&color=fff&vCenter=true&pause=1000&size=22" />
 </div>
 
-<div align="center">
-    <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://discord-cards.onrender.com/api/compact/897301257037959219?about=Dead&banner=https://i.pinimg.com/736x/04/f7/da/04f7da210c87df2ce05f8a0880bbb060.jpg&large_image=&small_image=https://p.kindpng.com/picc/s/220-2206319_kanna-png-page-kanna-kamui-with-a-gun.png&hex=">
-        </a>
-    </p>
-</div>
-
-
-
-<div align="center">
-<a href="https://github.com/KiriXen" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 100px;" />
-</a>
-<a href="https://youtube.com/@KiriXenYT" target="_blank">
-<img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://dsc.gg/kirixen" target="_blank">
-<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>    
-</div>
+<p align="center">
+  <a href="https://github.com/kirixen?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kirixen?color=1C8C8C&style=for-the-badge&labelColor=555&logo=star"/></a>
+  <a href="https://github.com/kirixen?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kirixen?color=1C8C8C&labelColor=555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/kirixen">
+            <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=Kirixen&style=for-the-badge&color=1C8C8C"></a>
+</p>
 
 <img align="right" src="https://raw.githubusercontent.com/KirixenYT/KirixenYT/main/bocchi.png" width="100px"/> 
 
@@ -34,6 +19,9 @@ Fav Anime: Anythin
 Pronouns: Camera
 Hobbies: nihilist
 ```
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 
 <h2 align = "center"> Stats </h2>
