@@ -17,4 +17,4 @@ jobs:
           max_videos: 6
           theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
           commit_message: "docs(readme): Update YouTube cards"
-          readme_path: readme.md
+          readme_path: README.md
