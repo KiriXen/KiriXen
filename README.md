@@ -3,6 +3,7 @@
 </div>
 
 <p align="center">
+    <a href="https://www.youtube.com/@irfanshadikrishad" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC92tkRtkVMRKvH8_prEzBtQ?logoColor=%23&style=for-the-badge"></a><br>
   <a href="https://github.com/kirixen?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kirixen?color=1C8C8C&style=for-the-badge&labelColor=555&logo=star"/></a>
   <a href="https://github.com/kirixen?tab=followers">
